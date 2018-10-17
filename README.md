@@ -3,7 +3,7 @@
 ``` source listing ````
 Visit https://xlsxwriter.readthedocs.io/
 
-![](outputXSLT.jpg)
+![](outputXSLT.JPG)
 
 ```
 # import xlsxwriter module 
