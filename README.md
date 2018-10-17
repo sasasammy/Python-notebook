@@ -3,6 +3,8 @@
 ``` source listing ````
 Visit https://xlsxwriter.readthedocs.io/
 
+![](outputXSLT.jpg)
+
 ```
 # import xlsxwriter module 
 import xlsxwriter 
