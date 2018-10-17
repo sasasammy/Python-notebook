@@ -1,9 +1,14 @@
 # Python-notebook
 
 ``` source listing ````
-
+# URL link
 Visit https://xlsxwriter.readthedocs.io/
+
+## Test/play chart, pie types
 Play with Chart type, Pie type, etc.
+### to run/python version
+[~/MyPython]$ python --version
+Python 2.7.13
 
 ![XSLT output|512x397,40%](outputXSLT.JPG)
 
