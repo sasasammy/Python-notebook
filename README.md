@@ -1,7 +1,9 @@
 # Python-notebook
 
 ``` source listing ````
+
 Visit https://xlsxwriter.readthedocs.io/
+Play with Chart type, Pie type, etc.
 
 ![XSLT output|512x397,40%](outputXSLT.JPG)
 
@@ -41,6 +43,7 @@ worksheet.write_column('A2', data[0])
 worksheet.write_column('B2', data[1]) 
 worksheet.write_column('C2', data[2]) 
 worksheet.write_comment('A1', 'Week number')
+worksheet.write_comment('B2', 'Local Sales numbers')
   
 # Create a chart object that can be added 
 # to a worksheet using add_chart() method. 
