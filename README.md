@@ -3,7 +3,7 @@
 ``` source listing ````
 Visit https://xlsxwriter.readthedocs.io/
 
-![](outputXSLT.JPG)
+![XSLT output|512x397,80%](outputXSLT.JPG)
 
 ```
 # import xlsxwriter module 
